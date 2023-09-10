@@ -4,3 +4,4 @@ read -p "Please enter you unit: " unit
 echo "Welcome $name to the $unit department"
 echo "thank you"
 expr 2 + 2 
+expr 3 + 6
