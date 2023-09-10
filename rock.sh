@@ -7,3 +7,4 @@ expr 2 + 2
 expr 3 + 6
 expr 6 / 2
 expr 7 + 8
+echo "home alone"
